@@ -6,8 +6,8 @@ import "./App.css";
 //Challenge for this assigment:
 //Convert GuessControl and NumberGuessingGame class component
 //into functional components
-//1. [] GuessControl
-//2. [] NumberGuessingame
+//1. [x] GuessControl
+//2. [x] NumberGuessingame
 
 class App extends Component {
   render() {
